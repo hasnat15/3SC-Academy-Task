@@ -1,9 +1,14 @@
-
 import './App.css';
+import Footer from './Components/Footer/Footer';
+import Navbar from './Components/Header/Navbar';
 
 function App() {
   return (
-   <h1 className="text-3xl font-bold underline">NOMINATIONS</h1>
+   <div>
+    <Navbar/>
+    <div className='bg-green-600 w-full h-screen'></div>
+    <Footer/>
+   </div>
   );
 }
 
