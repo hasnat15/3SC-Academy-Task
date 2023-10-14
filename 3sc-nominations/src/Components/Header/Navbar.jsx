@@ -1,6 +1,5 @@
 import React from 'react'
 import logo from '../Assets/Green.svg'
-import mlogo from '../Assets/mobile-logo.svg'
 import mplus from '../Assets/plus.svg'
 import minbox from '../Assets/inbox.svg'
 
